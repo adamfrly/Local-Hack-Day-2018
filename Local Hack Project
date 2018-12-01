@@ -1,2 +1,5 @@
 printf("hello world of local hack day")
+int a = 7, b = 5;
+
+printf("%d", a)
 
